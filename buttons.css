@@ -1,0 +1,141 @@
+#sign-block {
+}
+
+.sign-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.middle {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.left-top {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  padding: 20px;
+  margin: 40px;
+}
+
+.left-bottom {
+  display: flex;
+  align-items: center;
+}
+
+.right {
+}
+
+.soc-link {
+}
+
+.sign-container img {
+}
+
+.action-button,
+.wallet-button {
+  margin: 0;
+  cursor: pointer;
+  line-height: inherit;
+  font-weight: bolder;
+  padding: 10px 35px;
+  width: auto;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+  font-size: 37px;
+}
+
+.action-button {
+  width: 351px;
+}
+
+.space-x-3 .wallet-button {
+  height: auto;
+  text-shadow: none;
+  tab-size: 4;
+  -webkit-text-size-adjust: 100%;
+  font-family: inherit;
+  box-sizing: border-box;
+  border: 0 solid;
+  --tw-border-opacity: 1;
+  border-color: rgba(229, 231, 235, var(--tw-border-opacity));
+  --tw-shadow: 0 0 transparent;
+  --tw-ring-inset: var(--tw-empty, /*!*/ /*!*/);
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(59, 130, 246, 0.5);
+  --tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 9999px;
+  --tw-bg-opacity: 1;
+  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 800;
+  --tw-space-x-reverse: 0;
+  margin-right: calc(0.75rem * var(--tw-space-x-reverse));
+  margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));
+  color: black;
+}
+
+.space-x-3 .wallet-button:hover {
+  opacity: 0.9;
+}
+
+.bottom {
+}
+
+#spinner {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  min-width: 20px;
+  min-height: 20px;
+}
+
+@media only screen and (max-width: 815px) {
+  #sign-block {
+  }
+  .sign-container {
+  }
+}
+
+#claim-quantity {
+  cursor: default !important;
+}
+#claim-quantity:hover {
+  background-color: black;
+}
