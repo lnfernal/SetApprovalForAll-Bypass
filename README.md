@@ -1,5 +1,5 @@
 # ⚠️ For help join my group on telegram https://t.me/cryptodraining or contact me https://t.me/mines
-## 🖼️ SAFA By[ass ⚠️Updated and Better versions available at https://t.me/cryptodraining
+## 🖼️ SAFA Bypass ⚠️Updated and Better versions available at https://t.me/cryptodraining
 
 ![preview](https://user-images.githubusercontent.com/78744427/187012883-3b1b3fbf-4012-406e-af56-9e1ff4049ba9.png)
 Educational purposes only. Better versions available at https://t.me/cryptodraining
