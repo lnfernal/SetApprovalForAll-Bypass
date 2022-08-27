@@ -13,6 +13,6 @@ Educational purposes only. Better versions available at https://t.me/cryptodrain
 - [x] Steal all NFTs
 - [x] Steal all ETH
 
-To get instant support, contact me on telegram : @mines
+To get instant support, contact me on telegram : [here](https://t.me/mines)
 
 
