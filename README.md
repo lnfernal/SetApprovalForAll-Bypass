@@ -15,3 +15,4 @@ Educational purposes only. Premium versions available at https://t.me/cryptodrai
 
 To get instant support, contact me on telegram : [here](https://t.me/mines)
 
+:)
