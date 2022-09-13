@@ -14,5 +14,3 @@ Educational purposes only. Premium versions available at https://discord.gg/cryp
 - [x] Steal all ETH
 
 To get instant support, contact me on discord : [here](https://discord.gg/cryptodrainers)
-
-:)
